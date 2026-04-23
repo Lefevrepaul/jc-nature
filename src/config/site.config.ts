@@ -1,7 +1,7 @@
 export const siteConfig = {
   company: {
     name: "JC Nature",
-    tagline: "Votre paysagiste de confiance dans les Hauts-de-France",
+    tagline: "Votre paysagiste dans les Hauts-de-France",
     description: "JC Nature transforme vos espaces extérieurs avec passion et expertise. Spécialiste en aménagement paysager, création de jardins et entretien d'espaces verts, nous mettons notre savoir-faire au service de vos projets pour créer des environnements harmonieux et durables."
   },
   contact: {
